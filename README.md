@@ -70,4 +70,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 ## Book Management System 📚
 ### **GIF Demo**
-![Project Demo](https://github.com/Eswarsuryachaitanya/Library_management/book-gif.gif)
+![Book-management](https://github.com/Eswarsuryachaitanya/Library_management/blob/main/book-gif.gif)
